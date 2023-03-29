@@ -1,5 +1,3 @@
-package test;
-
 public class BubbleSort {
 	public static void main(String[] args) {
 		int vetor[] = {4,25,9,87,11};
